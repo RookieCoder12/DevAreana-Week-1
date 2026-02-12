@@ -13,15 +13,21 @@ This is the Week 1 project for DevArena, containing introductory Python exercise
 ### Prerequisites
 Ensure you have Python 3.x installed on your system.
 
+### Cloning Repository
+Cloning the repository:
+```zsh
+git clone https://github.com/RookieCoder12/DevAreana-Week-1.git
+```
+
 ### Installation
 Install the required dependencies:
-```bash
+```zsh
 pip install -r requirements.txt
 ```
 
 ### Running the Project
 Execute the main script:
-```bash
+```zsh
 python personal_intro.py
 ```
 
