@@ -1,7 +1,7 @@
-# DevArena - Week 1
+# Developers Arena - Week 1
 
 ## Overview
-This is the Week 1 project for DevArena, containing introductory Python exercises and setup.
+This is the Week 1 project for Developers Arena, containing introductory Python exercises and setup.
 
 ## Files
 - `personal_intro.py` - Python script with personal introduction code
@@ -33,6 +33,3 @@ python personal_intro.py
 
 ## Structure
 This project serves as an introduction to Python programming fundamentals.
-
-## Next Steps
-Review the code in `personal_intro.py` and explore the project structure.
